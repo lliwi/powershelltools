@@ -1,0 +1,18 @@
+[submodule "Posh-SecMod"]
+	path = Posh-SecMod
+	url = https://github.com/darkoperator/Posh-SecMod.git
+[submodule "Empire"]
+	path = Empire
+	url = https://github.com/EmpireProject/Empire.git
+[submodule "mimikatz"]
+	path = mimikatz
+	url = https://github.com/gentilkiwi/mimikatz.git
+[submodule "nishang"]
+	path = nishang
+	url = https://github.com/samratashok/nishang.git
+[submodule "Posh-Shodan"]
+	path = Posh-Shodan
+	url = https://github.com/darkoperator/Posh-Shodan.git
+[submodule "PowerSploit"]
+	path = PowerSploit
+	url = https://github.com/PowerShellMafia/PowerSploit.git
