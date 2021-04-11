@@ -25,3 +25,6 @@ Import-Module .\Posh-SecMod\Utility\utility.psm1
 
 Import-Module .\Posh-Shodan\Posh-Shodan.psm1
 
+#Set-ShodanAPIKey -APIKey xxxxxxxxxxxxxxxxxxxxxx
+#Read-ShodanAPIKey
+
