@@ -16,3 +16,6 @@
 [submodule "PowerSploit"]
 	path = PowerSploit
 	url = https://github.com/PowerShellMafia/PowerSploit.git
+[submodule "powercat"]
+	path = powercat
+	url = https://github.com/besimorhino/powercat.git
